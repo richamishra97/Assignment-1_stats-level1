@@ -1,2 +1,3 @@
-# Assignment-1_stats-level1
-Assignment Basic stats 
+Q7) Calculate Mean, Median, Mode, Variance, Standard Deviation, Range &     comment about the values / draw inferences, for the given dataset
+-	For Points,Score,Weight>
+Find Mean, Median, Mode, Variance, Standard Deviation, and Range and also Comment about the values/ Draw some inferences.
